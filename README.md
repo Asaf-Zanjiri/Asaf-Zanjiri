@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asaf-Zanjiri
 - 👀 I’m interested in Malware, Exploits and Vulnerabilities.
-- 🌱 I’m currently learning the basics of: Security, C, Malware-Analsys, Reversing, Pentesting.
+- 🌱 I’m currently learning: Pentesting, Security, C, Malware-Analysis, Reversing.
 
 I've still got a long way to go, and I don't upload all of my works here. But you can always be sure that i'm always learning.
 
